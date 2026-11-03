@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Rasoi",
+  "description": "Discover authentic Indian recipes across every region, get personalized daily meal recommendations, plan your weekly kitchen, and cook with an AI Chef.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
